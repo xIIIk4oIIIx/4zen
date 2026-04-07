@@ -28,7 +28,7 @@ Minimalistyczna, cross-platformowa (Android & iOS) aplikacja do medytacji i rela
 1. Upewnij się, że masz zainstalowane środowisko [Flutter SDK](https://flutter.dev/docs/get-started/install) oraz emulator Android/iOS (lub podłączone fizyczne urządzenie).
 2. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/TwojNick/4zen-app.git](https://github.com/TwojNick/4zen-app.git)
+   git clone [https://github.com/xIIIk4oIIIx/4zen.git](https://github.com/xIIIk4oIIIx/4zen.git)
 3.  Przejdź do folderu z projektem i pobierz zależności:
     ```bash
     cd 4zen-app
