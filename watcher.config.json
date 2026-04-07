@@ -1,0 +1,33 @@
+{
+  "watchFolder": "./",
+  "outputFile": "context_for_zen.txt",
+"allowedExtensions": [
+  ".js",
+  ".jsx",
+  ".ts",
+  ".tsx",
+  ".css",
+  ".html",
+  ".json",
+  ".py",
+  ".java",
+  ".md",
+  ".kt",
+  ".xml",
+  ".gradle",
+  ".properties",
+  ".dart" 
+],
+  "ignorePatterns": [
+    "node_modules",
+    ".git",
+    ".next",
+    "dist",
+    "build",
+    "package-lock.json",
+    "yarn.lock",
+    "context_for_zen.txt",
+    ".idea",
+    ".gradle"
+  ]
+}
